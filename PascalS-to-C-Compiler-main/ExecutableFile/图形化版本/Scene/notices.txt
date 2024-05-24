@@ -1,0 +1,3 @@
+>>>Generating...
+>>>C program generated!
+>>>
